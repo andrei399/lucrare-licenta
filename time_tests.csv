@@ -1,0 +1,43 @@
+Name,Rez,Min,Average,Max
+Random Shuffle,test/data/240p.jpg,33984917,70683279,36823641
+Random Shuffle,test/data/360p.jpg,75603525,156194938,83398735
+Random Shuffle,test/data/480p.jpg,138692233,289414107,148627316
+Random Shuffle,test/data/720p.jpg,416397688,855821814,443706909
+Random Shuffle,test/data/1080p.jpg,985921830,2002344629,1032133190
+Random Shuffle,test/data/2K.jpg,1838611528,3776148933,1941777233
+Random Shuffle,test/data/4K.jpg,4254695846,8625968009,4436112784
+Fisher Yates Shuffle,test/data/240p.jpg,32442528,67650183,35326928
+Fisher Yates Shuffle,test/data/360p.jpg,74149376,153652448,90283272
+Fisher Yates Shuffle,test/data/480p.jpg,133056010,272706195,141800033
+Fisher Yates Shuffle,test/data/720p.jpg,409690805,836911137,435604588
+Fisher Yates Shuffle,test/data/1080p.jpg,947228088,1920227230,974423117
+Fisher Yates Shuffle,test/data/2K.jpg,1725412070,3517991813,1781378050
+Fisher Yates Shuffle,test/data/4K.jpg,4146434248,8327937550,4177700173
+Poisson Charlier Shuffle,test/data/240p.jpg,8979355,18427404,10118211
+Poisson Charlier Shuffle,test/data/360p.jpg,20356118,41690656,21569326
+Poisson Charlier Shuffle,test/data/480p.jpg,36949467,75212271,38779854
+Poisson Charlier Shuffle,test/data/720p.jpg,115125898,233748378,123879977
+Poisson Charlier Shuffle,test/data/1080p.jpg,265611864,544935511,279549653
+Poisson Charlier Shuffle,test/data/2K.jpg,504023129,1026361182,540215856
+Poisson Charlier Shuffle,test/data/4K.jpg,1215572930,2872235871,1717993097
+Radu Boriga Shuffle,test/data/240p.jpg,33007588,68106048,35524573
+Radu Boriga Shuffle,test/data/360p.jpg,75919170,158117252,93326836
+Radu Boriga Shuffle,test/data/480p.jpg,139628333,296796582,167939186
+Radu Boriga Shuffle,test/data/720p.jpg,420787955,885787417,473349419
+Radu Boriga Shuffle,test/data/1080p.jpg,992466670,2014850585,1046270512
+Radu Boriga Shuffle,test/data/2K.jpg,1831235993,3704146453,1867603930
+Radu Boriga Shuffle,test/data/4K.jpg,4208458455,8540521819,4303916639
+Radu Boriga Shuffle Set,test/data/240p.jpg,35451100,72804636,37857441
+Radu Boriga Shuffle Set,test/data/360p.jpg,87381661,183108803,119006083
+Radu Boriga Shuffle Set,test/data/480p.jpg,168481197,361721363,194500994
+Radu Boriga Shuffle Set,test/data/720p.jpg,600478002,1228688784,625923882
+Radu Boriga Shuffle Set,test/data/1080p.jpg,1478317476,2993379818,1508162039
+Radu Boriga Shuffle Set,test/data/2K.jpg,2761908715,5627333912,2847642258
+Radu Boriga Shuffle Set,test/data/4K.jpg,6580244382,13289600400,6857867460
+Radu Boriga Shuffle Heap,test/data/240p.jpg,48406659,101955253,64323055
+Radu Boriga Shuffle Heap,test/data/360p.jpg,113523363,233672134,130153167
+Radu Boriga Shuffle Heap,test/data/480p.jpg,215847523,441552117,226467357
+Radu Boriga Shuffle Heap,test/data/720p.jpg,664765708,1400611244,717092112
+Radu Boriga Shuffle Heap,test/data/1080p.jpg,1538250369,3294006384,1675719463
+Radu Boriga Shuffle Heap,test/data/2K.jpg,2841795089,6107941768,3111331693
+Radu Boriga Shuffle Heap,test/data/4K.jpg,6553015560,14326036570,7326331378

@@ -1,0 +1,35 @@
+Capitolul 1:
+  A. Introducere
+  B. Obiectievele Lucrarii
+  C. ??
+Capitolul 2:
+  A. Python(structuri de date in python cu complexitatile operatiilor)
+  B. NumPy
+  C. OpenCV
+  D. Random
+  E. Pillow
+Capitolul 3:
+  A. Algoritmi pentru generarea permutarilor aleatorii
+  B. Fisher Yates, Durstenfeld
+  C. Poission-Charlier Scramble Algorithm
+  D. Algoritm Boriga Dascalescu
+Capitolul 4 Stabilirea perfomantelor tuturor aglortimilor
+  A. Introduction
+  B. Random shuffle
+  C. Fisher-Yates
+  D. Poission-Charlier
+  E. Boriga Dascalescu
+Capitolul 5 Optimiziarea algoritmului Boriga Dascalescu:
+  A. Introduction to the various optimizatio
+  B. HeapQ
+  C. Set
+  D. NumPy
+  E. Combinarea Tuturor metodelor pentru cel mai bun rezultat 
+Capitolul 6: 
+  A. Permutarea imaginilor folosind algoritmi de permutare aleatorii
+  B. Prezentarea efectiva a aplicatiei pentru imagini
+  C. Permutarea videourilor folosind algoritmi de permutare aleatorii
+  D. Prezentarea efectiva a aplicatiei pentru videouri
+Capitolul 7:
+  A. Concluzie si directii viitoare de dezvoltare
+  B. Bibliografie
